@@ -3,4 +3,4 @@ Drive the Broad Institute GSEA Application From R
 
 
 
-##Original Version: Tian Yu (tyty@bu.edu)
+####Original Version by: Tian Yu (tyty@bu.edu)
